@@ -8,10 +8,10 @@
 # Project metadata (used for documentation / review)
 # ======================================================
 project:
-  title: ""        # Project title
-  author: ""       # Your name
+  title: "inv_dut_096 - 5 V CMOS inverter" # Project title
+  author: "kastr0419" # GitHub username
   discord: ""      # Optional: Discord username (for support / communication)
-  description: ""  # Short one-line description
+  description: "GF180MCU inverter: pfet_05v0 / nfet_05v0, both W=1.80 um and L=0.60 um."
 
 # ======================================================
 # Layout (GDS) configuration
